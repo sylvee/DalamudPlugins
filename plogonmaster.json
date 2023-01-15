@@ -1,7 +1,7 @@
 [
   {
-    "Author": "Windmourn (Updated by Vee)",
-    "Name": "SkipCutscene",
+    "Author": "Windmourn (Updated by Marxvee)",
+    "Name": "Speedtorium",
     "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
     "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
     "Tags": [ "utility" ],
@@ -13,7 +13,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
-    "LastUpdate": 1640036270,
+    "LastUpdate": 1673770761,
     "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/latest.zip",
     "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/latest.zip"

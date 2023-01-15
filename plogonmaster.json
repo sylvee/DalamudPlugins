@@ -14,8 +14,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1640036270,
-    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/dist/latest.zip",
-    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/dist/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/dist/latest.zip"
+    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/latest.zip"
   }
 ]

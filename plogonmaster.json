@@ -2,8 +2,8 @@
   {
     "Author": "Windmourn (Updated by Marxvee)",
     "Name": "Speedtorium",
-    "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
-    "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
+    "Punchline": "Skips cutscenes in Duty Roulette: Main Scenario.",
+    "Description": "Automatically skips cutscenes from duties in Duty Roulette: Main Scenario. Togglable.",
     "Tags": [ "utility" ],
     "InternalName": "SkipCutscene",
     "AssemblyVersion": "1.2.2.0",

@@ -1,2 +1,2 @@
 # DalamudPlugins
-repo url: `https://github.com/Marxvee/DalamudPlugins`
+repo url: `https://github.com/Marxvee/DalamudPlugins/raw/main/plogonmaster.json`

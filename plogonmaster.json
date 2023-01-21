@@ -14,9 +14,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1337,
     "LastUpdate": 1673770761,
-    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plguins/Speedtorium.zip",
-    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plguins/Speedtorium.zip",
-    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plguins/Speedtorium.zip"
+    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium.zip",
+    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium.zip",
+    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium.zip"
   },
   {
     "Author": "Marxvee",
@@ -33,8 +33,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1337,
     "LastUpdate": 1673770761,
-    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plguins/DutyHop.zip",
-    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plguins/DutyHop.zip",
-    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plguins/DutyHop.zip"
+    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop.zip",
+    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop.zip",
+    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop.zip"
   }
 ]

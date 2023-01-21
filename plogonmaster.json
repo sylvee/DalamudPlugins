@@ -14,8 +14,27 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1337,
     "LastUpdate": 1673770761,
-    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium.zip",
-    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium.zip",
-    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium.zip"
+    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/Speedtorium/latest.zip"
+  },
+  {
+    "Author": "Marxvee",
+    "Name": "DutyHop",
+    "Punchline": "Leave duties like there's no tomorrow.",
+    "Description": "Allows you to instantly leave duties with a single command.",
+    "Tags": [ "utility" ],
+    "InternalName": "DutyHop",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Marxvee/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 69,
+    "LastUpdate": 1673770761,
+    "DownloadLinkTesting": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Marxvee/DalamudPlugins/raw/main/Plugins/DutyHop/latest.zip"
   }
 ]
